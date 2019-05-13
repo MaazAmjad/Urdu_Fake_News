@@ -14,20 +14,13 @@ The corpus contains 900 news divided into 500 real news and 400 fake news. The c
 <li>Health</li>
 </ul>
 
-The corpus was split into train and test sets, using around the 70% of the corpus for train and the rest for test. We performed a hierarchical distribution of the corpus, i.e., all the categories keep the 70%-30% ratio.
+The corpus was split into train and test sets, using around the 70% of the corpus for train and 30% for test set. We performed a hierarchical distribution of the corpus, i.e., all the categories keep the 70%-30% ratio.
 
-The corpus is concentrated in the files train.xlsx and test.xlsx. The meaning of the columns is described next:
-
-. Category: indicates the category of the news (true or fake).
-. Topic: indicates the topic related to the news.
-. Source: indicates the name of the source.
-. Headline: contains the headline of the news.
-. Text: contains the raw text of the news.
-. Link: contains the URL of the source.
-. If you use the corpus please cite the following article:
+## Citation
+If you use the corpus please cite the following article:
 
 ## Authors of the corpus
-Juan Manuel Ramírez Cruz (ESIME Zacatenco - IPN), Silvia Úrsula Palacios Alvarado (ESIME Zacatenco - IPN), Karime Elena Franca Tapia (ESIME Zacatenco - IPN), Juan Pablo Francisco Posadas Durán (ESIME Zacatenco - IPN), Helena Montserrat Gómez Adorno (IIMAS - UNAM), Dr. Grigori Sidorov (CIC - IPN)
+Maaz Amjad (CIC - IPN),  Dr. Grigori Sidorov (CIC - IPN), Alisa Zhila (CIC - IPN), Helena Montserrat Gómez Adorno (IIMAS - UNAM), Ilia Voronkov (MIPT Russia),  Dr. Alexander Gelbukh (CIC - IPN)
 
 ## Aknowledgments
-The work was done with partial support of Red Temática de Tecnologías del Lenguaje, CONACYT project 240844 and SIP-IPN projects 20181849 and 20171813
+The work was done with partial support of CONACYT project 240844 and SIP-IPN projects 20195719.

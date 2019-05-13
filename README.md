@@ -5,17 +5,16 @@ The corpus contains 971 news divided into 491 real news and 480 fake news. The c
 
 The corpus is concentrated in the files train.xlsx and test.xlsx. The meaning of the columns is described next:
 
-Category: indicates the category of the news (true or fake).
-Topic: indicates the topic related to the news.
-Source: indicates the name of the source.
-Headline: contains the headline of the news.
-Text: contains the raw text of the news.
-Link: contains the URL of the source.
-If you use the corpus please cite the following article:
+. Category: indicates the category of the news (true or fake).
+. Topic: indicates the topic related to the news.
+. Source: indicates the name of the source.
+. Headline: contains the headline of the news.
+. Text: contains the raw text of the news.
+. Link: contains the URL of the source.
+. If you use the corpus please cite the following article:
 
-Posadas-Durán, J., Gómez-Adorno, H., Sidorov, G., Moreno, J. (2018). Detection of Fake News in a New Corpus for the Spanish Language. Journal of Intelligent & Fuzzy Systems, In Press.
-
-Authors of the corpus
+# Authors of the corpus
 Juan Manuel Ramírez Cruz (ESIME Zacatenco - IPN), Silvia Úrsula Palacios Alvarado (ESIME Zacatenco - IPN), Karime Elena Franca Tapia (ESIME Zacatenco - IPN), Juan Pablo Francisco Posadas Durán (ESIME Zacatenco - IPN), Helena Montserrat Gómez Adorno (IIMAS - UNAM), Dr. Grigori Sidorov (CIC - IPN)
-Aknowledgments
+
+# Aknowledgments
 The work was done with partial support of Red Temática de Tecnologías del Lenguaje, CONACYT project 240844 and SIP-IPN projects 20181849 and 20171813

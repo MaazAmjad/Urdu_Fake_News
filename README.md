@@ -11,7 +11,7 @@ The corpus contains 900 news divided into 500 real news and 400 fake news. The c
 <li>Entertainment</li>
 <li>Technology</li>
 <li>Business</li>
-<li>Health/li>
+<li>Health</li>
 </ul>
 
 The corpus was split into train and test sets, using around the 70% of the corpus for train and the rest for test. We performed a hierarchical distribution of the corpus, i.e., all the categories keep the 70%-30% ratio.

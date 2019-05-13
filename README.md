@@ -1,11 +1,11 @@
 # Urdu Corpus for Fake News Detection Task
-==========================================
 
 The Urdu Fake News Corpus contains a collection of news collected from different resources on the Web: established newspapers websites, media companies’ websites, special websites. Fake news was written by different journalists. The news were collected from time period January 2018 to December 2018. All the news were written in Urdu. The process of tagging the corpus was manually performed and the method followed is described in the paper. 
 
 The corpus contains 900 news divided into 500 real news and 400 fake news. The corpus covers news from 5 different topics (domains): 
 
-<p> News Catogaries:</p>
+
+<p><em><strong>News Catogaries</strong> </em>:</p>
 <ul>
 <li>Sports</li>
 <li>Entertainment</li>

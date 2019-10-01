@@ -32,16 +32,20 @@ This README demonstrates Urud fake news datasets which contain news of 5 differe
 =======================
 
 3. Dataset structure of "Bend the Truth"
+
 This dataset has two folders. Each folder contains real and fake news. There are 5 types of news in this dataset such as technology, business, sports, health and entertainment. The file names shoes the catagory of news. For example, the news catogary sports (sp), technology (tech) etc.
 
 The class distributio for the fake and real news for each dataset is shown below:
 
 +-------------+------------+---------+--+
 |   Dataset      | Class      | Entries |
+
 +-------------+------------+---------+--+
-|                | Fake       |   400   |     
+|                | Fake       |   400   | 
+
 + Bend the Truth +-----------+----------+
-|                | Real       |   500   |     
+|                | Real       |   500   |   
+
 +-------------+------------+------------+
 
 =======================

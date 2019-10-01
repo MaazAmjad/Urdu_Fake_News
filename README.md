@@ -24,11 +24,13 @@ CONTENTS
 This README demonstrates Urud fake news datasets which contain news of 5 different news domains. These domains are Sports, Health, TEchnology, Entertainment and Business. The real news are coolected by combining manual approaches. However, the fake news are collected by crowdsourced annotation (we took the services of the professional journalists)
 
 ============================
+
 2. Data collection
 
 "The Bend the Truth" dataset contains news in six different domains: technology, education, business, sports, politics, and entertainment. The real news included in the dataset were collected from a variety of mainstream news websites predominantly in the Pakistan, India, UK and USA. These news channels are BBC Urdu News, CNN Urdu, Express News, Jung News, Naway Waqat and many others reliable news websites. The fake news included in this dataset consist of fake versions of the real news in the dataset, written by professional journalists. More details on the data collection are provided in the paper. 
 
 =======================
+
 3. Dataset structure of "Bend the Truth"
 This dataset has two folders. Each folder contains real and fake news. There are 5 types of news in this dataset such as technology, business, sports, health and entertainment. The file names shoes the catagory of news. For example, the news catogary sports (sp), technology (tech) etc.
 
@@ -43,12 +45,14 @@ The class distributio for the fake and real news for each dataset is shown below
 +-------------+------------+------------+
 
 =======================
+
 3. Feedback
 
 For further questions or inquiries about this dataset, you can contact Maaz Amjad (maazamjad@phystech.edu) 
 
 
 =======================
+
 4. Citation Info 
 
 If you use this data set, please cite:
@@ -62,6 +66,7 @@ year = {2019}
 
 
 =======================
+
 5. Acknowledgments
 The work was done with partial support of CONACYT project 240844 and SIP-IPN projects 20195719.
 
